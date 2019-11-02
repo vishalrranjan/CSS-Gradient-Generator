@@ -1,0 +1,41 @@
+body{
+	text-align: center;
+	text-transform: uppercase;
+	background: linear-gradient(to right, #01C5CE , #00D780);
+
+}
+.heading{
+	letter-spacing: .5em;
+	font: 'Raleway', sans-serif;
+	color: white;
+	top: 15%;
+}
+
+h2{
+	margin-top: 50px;
+	color: black;
+	font-family: sans-serif;
+}
+
+input{
+	cursor: pointer;
+	width: 6em;
+	height: 4em;
+	padding: 0;
+	box-shadow: none;
+	border: none;
+}
+
+#gradient_value{
+	font: 900 1em 'Raleway', sans-serif;
+    color: rgba(0,0,0,.5);
+    text-align: center;
+    text-transform: none;
+    letter-spacing: 0.01em;
+}
+
+/*button{
+	background: transparent;
+	font-size: 1.3em;
+	cursor: pointer;
+}*/
