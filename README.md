@@ -2,7 +2,7 @@
 ## Description :
 * Gradient app used to generate CSS gradient and then the code can be apply in css.
 
-** want to see live, checkout (https://vishalrranjan.github.io/Gradient-Generator/.)
+want to see live, checkout https://vishalrranjan.github.io/CSS-Gradient-Generator/.
 
 ## Technology Used :
 * HTML
